@@ -8,4 +8,5 @@ tippy('.glossary', {
     },
     theme: 'light',
     allowHTML: true,
+    interactive: true,
 });
